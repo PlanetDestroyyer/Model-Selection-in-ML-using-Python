@@ -1,0 +1,2 @@
+# Model-Selection-in-ML-using-Python
+Model selection is the process of choosing the best machine learning algorithm or model architecture for a given problem. It involves evaluating different models using various performance metrics and selecting the one that performs the best on unseen data. Techniques for model selection include cross-validation, grid search, random search, and more. It's crucial for building accurate and robust machine learning systems.
